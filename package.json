@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://arya-mahesh.github.io/CryptoPlace",
+  "homepage": "https://arya-mahesh.github.io/Cryptoplace",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
